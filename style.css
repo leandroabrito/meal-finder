@@ -92,6 +92,25 @@ input[type="text"] {
   opacity: 1;
 }
 
+.single-meal {
+  margin: 30px auto;
+  width: 70%;
+}
+
+.single-meal img {
+  width: 300px;
+  margin: 15px;
+  border: 4px solid #fff;
+  border-radius: 2px;
+}
+
+.single-meal-info {
+  margin: 20px;
+  padding: 10px;
+  border: 2px #e09850 dashed;
+  border-radius: 5px;
+}
+
 @media(max-width: 800px) {
 
 }
